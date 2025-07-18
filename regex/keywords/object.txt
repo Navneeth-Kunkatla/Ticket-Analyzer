@@ -1,0 +1,489 @@
+2FA
+3rd floor pantry
+Block D
+CIS benchmarks
+CSV
+California Consumer Privacy Act
+Coffee machine
+DNS records
+DNS settings
+Excel
+Excel files
+GDPR
+GPS
+HIPAA regulations
+HR systems
+ISO 27001 compliance
+IT assets
+IoT data
+IoT device data
+IoT devices
+IoT sensors
+JSON
+MFA
+Onboarding documents
+PCI DSS compliance
+PDF
+RFID data
+ROI
+SOC 2 requirements
+SSL certificate installations
+SSL certificates
+SSL vendors
+TLD
+TLDs
+URLs
+WHOIS privacy
+access
+account
+accuracy
+acquisition
+actions
+advanced analytics
+advanced filters
+alarm
+alerts
+allocation
+approvals
+apps
+asset
+asset allocation
+asset categories
+asset condition
+asset conditions
+asset configurations
+asset data
+asset depreciation
+asset details
+asset downtime
+asset efficiency
+asset incidents
+asset locations
+asset management module
+asset modifications
+asset movement
+asset movements
+asset ownership
+asset performance
+asset purchase requests
+asset purchases
+asset records
+asset security
+asset tags
+asset types
+asset updates
+asset usage
+asset utilization
+asset values
+asset-related
+asset-related expenses
+asset-related tasks
+assets
+auction platform
+auctions
+audit preparation
+audit purposes
+audit requirements
+audit trail
+audit-ready
+auditors
+audits
+backorders
+backup systems
+barcode scanners
+barcode scanning
+bidding patterns
+board markers
+borrower information
+breaches
+budget
+budgeting purposes
+budgets
+bulk
+bulk asset data
+bulk tools
+calibration
+calibration tasks
+categories
+changes
+channels
+cloud systems
+clutter
+coffee machine
+collaboration tools
+collaborative editing
+completeness
+complex subdomain setups
+compliance
+compliance audits
+compliance controls
+compliance documents
+compliance evidence
+compliance frameworks
+compliance gaps
+compliance policies
+compliance purposes
+compliance requirements
+compliance status
+compliance tasks
+compliance training modules
+compliance-related activities
+compliance-related tasks
+condition
+conditions
+configuration items
+connectivity
+consistency
+controls
+costs
+critical issues
+custom domain-based email addresses
+custom fields
+customer asset tracking
+customer onboarding tasks
+customer support
+damage
+data
+data access events
+data centers
+data exchange
+data loss
+data management
+data privacy controls
+data protection controls
+data retention policies
+data validation
+data visualization
+databases
+deadlines
+decommissioning
+deletion
+delivery truck
+departments
+depreciation
+detailed audit trails
+disaster recovery
+discovered devices
+disposal
+disposed assets
+diversification
+document
+documents
+domain acquisitions
+domain expiration dates
+domain expirations
+domain lease agreements
+domain management tasks
+domain names
+domain portfolio
+domain portfolio data
+domain renewals
+domain search results
+domain traffic
+domain transfers
+domain types
+domains
+due dates
+duplicate asset entries
+duplicate entries
+duplication of effort
+efficiency
+efforts
+eligible assets
+email systems
+emergency contact details
+employee
+employee acknowledgments
+employees
+endpoint management tools
+energy consumption
+energy-intensive assets
+equipment
+errors
+evidence
+expertise
+expiration
+expiration dates
+expirations
+expired domains
+expiry dates
+external compliance
+external compliance audits
+external drives
+external files
+external sources
+external systems
+features
+file formats
+files
+filters
+financial impact
+financial implications
+financial reporting
+financial systems
+financial tracking
+firewalls
+formats
+formulas
+forwarding
+frameworks
+frequency
+future asset conditions
+future value
+gaps
+geographic TLDs
+grace period
+grace periods
+groups
+growth trends
+hardware
+hardware assets
+hardware condition
+hardware conditions
+hardware downtime
+hardware locations
+health
+high-value assets
+historical data
+identity providers
+idle time
+impact
+incidents
+individuals
+inefficiencies
+insights
+inspection data
+inspection results
+inspections
+insurance details
+integration
+integrations
+internal compliance
+internal compliance audits
+inventory
+issues
+key asset metrics
+key deadlines
+keyword-based suggestions
+keywords
+large-scale projects
+lease agreements
+lease terms
+leased assets
+leased domains
+leased hardware assets
+leasing
+length
+licenses
+lifecycle
+lifecycle stages
+limits
+live domains
+loaned assets
+loaned hardware assets
+location
+locations
+logs
+lunch
+maintenance
+maintenance activities
+maintenance dates
+maintenance history
+maintenance schedules
+maintenance tasks
+markers
+marketplace domains
+meeting room
+metrics
+milestones
+monetized domain traffic
+monitoring tools
+network
+new assets
+new domains
+new employees
+notifications
+offline analysis
+online threats
+operations
+organization
+organizational needs
+organizational standards
+outdated compliance evidence
+overlapping controls
+owner
+owner details
+ownership
+ownership changes
+parked domains
+parties
+password policies
+password requirements
+payment card data
+performance
+performance issues
+performance metrics
+performance reports
+personal information
+phrases
+platforms
+policy renewals
+portfolio
+portfolio data
+portfolio diversification
+power-intensive assets
+premium domains
+preventive maintenance tasks
+price
+pricing
+privacy
+privacy standards
+process
+processes
+procurement
+procurement requests
+productivity
+professional email hosting services
+profitability
+progress
+protected health information
+purchase requests
+purchases
+purchasing decisions
+quality
+real-time
+real-time compliance status reports
+real-time updates
+reasons
+record-keeping
+records
+redirected domains
+redirection configurations
+redirections
+registered assets
+registered domains
+registered hardware assets
+registrar performance
+registrars
+registration
+regulations
+regulatory standards
+relationships
+relevance
+remediation actions
+reminders
+renewal
+renewal dates
+renewal fees
+renewal notifications
+renewal policies
+renewal strategies
+renewal success rates
+renewals
+reporting
+reporting requirements
+reports
+repository
+requirement
+requirements
+resource management
+resource planning
+responsibilities
+results
+return on investment
+revenue
+revenue performance
+risk scores
+risks
+rogue devices
+roles
+routine inspections
+routine schedule
+rules
+sales performance
+script
+secure channels
+security
+security and compliance policies
+security controls
+security incidents
+security policies
+security protocols
+security risks
+security standards
+security tools
+sensitive asset data
+sensors
+severity
+sharing
+software
+software assets
+software licenses
+specific asset types
+specific controls
+spreadsheet
+spreadsheet data
+staff parking entrance
+stakeholders
+standards
+staplers
+subdomains
+success rates
+systems
+tags
+task management
+tasks
+team members
+technical equipment
+template
+template data
+theft
+third-party integrations
+third-party services
+third-party tools
+ticket resolution
+ticketing systems
+time
+time intervals
+timestamps
+tools
+tracker
+tracker data
+tracking
+traffic data
+transfer authorization codes
+transfers
+trends
+unauthorized devices
+unique asset tags
+unique identifiers
+unique tags
+unused domains
+upcoming renewal fees
+updates
+usage
+usage trends
+user access
+user activity
+user details
+users
+utilization
+utilization trends
+value
+vendor communication
+vendor compliance
+vendor details
+visitor
+visual hierarchies
+visualization
+volumes
+vulnerabilities
+warranty claims
+warranty details
+warranty expiration dates
+warranty expirations
+website
+website builders
+websites
+workflows
+years
