@@ -8,7 +8,7 @@ import ast
 
 lemmatizer = WordNetLemmatizer()
 
-client = OpenAI(api_key=("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"))
+client = OpenAI(api_key=(""))
 
 
 
